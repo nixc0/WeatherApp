@@ -1,0 +1,4 @@
+Feb 22, 2019 11:15:19 AM edu.capella.it4749.ConsoleWeather main
+INFO: URL: https://api.openweathermap.org/data/2.5/weather?zip=29483,us&APPID=040a0cfaa6ff23e0a53c6b3263ed709c
+Feb 22, 2019 11:15:20 AM edu.capella.it4749.ConsoleWeather main
+INFO: Connection Successfull.
